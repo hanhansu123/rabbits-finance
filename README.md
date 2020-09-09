@@ -24,7 +24,7 @@ The token distribution index will not cause precipitation in the fund pool. The 
 9. BOX: 70 RAB
 10. NDX: 70 RAB
 
-RAB will be distributed on only one week.
+RAB will be distributed in only two weeks.
 
 ## Reasons for token selection
 - Stable coins issued based on the EOS network (EOSDT, USDE, USN)
