@@ -19,10 +19,6 @@ The token distribution index will not cause precipitation in the fund pool. The 
 4. EOSDT: 1030 RAB
 5. USDE: 1030 RAB
 6. USN: 1030 RAB
-7. DFS: 70 RAB
-8. DMD: 70 RAB
-9. BOX: 70 RAB
-10. NDX: 70 RAB
 
 RAB will be distributed in only two weeks.
 
